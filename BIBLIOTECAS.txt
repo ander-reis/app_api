@@ -3,3 +3,9 @@ https://github.com/barryvdh/laravel-ide-helper
 
 gerencia rotas api - dingo api
 https://github.com/dingo/api
+
+pacote de tradução
+https://github.com/caouecs/Laravel-lang
+
+validação de cpf
+https://github.com/codeedu/code_validator

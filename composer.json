@@ -6,17 +6,19 @@
     "type": "project",
     "require": {
         "php": ">=5.6.4",
+        "caouecs/laravel-lang": "~3.0",
+        "codeedu/code_validator": "0.0.2",
         "dingo/api": "1.0.0-beta8",
         "dingo/blueprint": "0.2.3",
+        "fzaninotto/faker": "^1.7",
         "laravel/framework": "5.4.*",
         "laravel/tinker": "~1.0",
         "phpdocumentor/reflection-docblock": "3.1.0",
         "phpdocumentor/type-resolver": "0.2",
-        "tymon/jwt-auth": "0.5.*"
+        "tymon/jwt-auth": "dev-develop#9f759fe9e3112e1de50920c05537d752780cf966"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.4",
-        "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~5.7"
     },
